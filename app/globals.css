@@ -1,4 +1,4 @@
-```css
+
 @import "tailwindcss";
 @import "tw-animate-css";
 @import "../vendor/shadcn-tailwind-4.13.0.css";
@@ -2216,4 +2216,3 @@ footer small {
     font-size: 38px;
   }
 }
-```
